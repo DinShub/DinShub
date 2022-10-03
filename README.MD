@@ -5,14 +5,14 @@
 - Node.js
 - Nest.js
 - MongoDB
-<br/><br/>
+<br/>
 ## 👨‍💻About Me:
 Bs.c in Computer Science and Mathematics in Haifa University. A full stack developer with experience in Angular 2+, Node.js, Express, Nest.js, MongoDB.\
 Avid gamer (mainly strategy and shooters/beat 'em up), Formula 1 fan (go McLaren!☝️) and enjoys watching anime (Demon Slayer and Hunter x Hunter👌)\
 Currently working as fulltime full stack developer and using the stack as mentioned above.
-<br/><br/>
+<br/>
 ## 💻Programming Experience:
-<div style="display:flex;flex-direction:row;align-items:center;justify-content:center;gap:1rem;flex-wrap:wrap;padding: 1rem 3rem">
+<div style="display:flex;flex-direction:row;align-items:center;justify-content:center;gap:1rem;flex-wrap:wrap;padding: 1rem 10rem">
 <img alt="javascript" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="40px" />
 <img alt="typescript" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width="40px" />
 <img alt="html" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="38px" />
@@ -32,7 +32,7 @@ Currently working as fulltime full stack developer and using the stack as mentio
 <img alt="godot" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png?20170822201738" width="40px"/>
 
  
-</div><br/><br/>
+</div><br/>
 
 ## 😁Projects:
 ### BroBot:
@@ -46,9 +46,9 @@ I love chess and always wanted to do a chess engine. Started doing it on Java, s
 ### Task Force Arma 3 Radio (forked):
 Added few features into the mods.
 
-<br/><br/>
+<br/>
 
 ## 📞 Contact Me:
-<br/>
+
 <a href="https://www.linkedin.com/in/din-shub-317393239/"><img alt="linkdin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px"/></a>
 <a href="mailto:din.shub199@gmail.com"><img alt="email" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/512px-Gmail_Icon_%282013-2020%29.svg.png?20220204194709" style="margin-left:1rem;margin-bottom:0.15rem;" width="50px"/></a>
