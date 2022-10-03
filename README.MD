@@ -6,7 +6,7 @@
 - Nest.js
 - MongoDB
 <br/>
-## 👨‍💻About Me:
+<h2> 👨‍💻About Me:</h2>
 Bs.c in Computer Science and Mathematics in Haifa University. A full stack developer with experience in Angular 2+, Node.js, Express, Nest.js, MongoDB.\
 Avid gamer (mainly strategy and shooters/beat 'em up), Formula 1 fan (go McLaren!☝️) and enjoys watching anime (Demon Slayer and Hunter x Hunter👌)\
 Currently working as fulltime full stack developer and using the stack as mentioned above.
