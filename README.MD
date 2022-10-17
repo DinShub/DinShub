@@ -11,6 +11,7 @@ Bs.c in Computer Science and Mathematics in Haifa University. A full stack devel
 Avid gamer (mainly strategy and shooters/beat 'em up), Formula 1 fan (go McLaren!☝️) and enjoys watching anime (Demon Slayer and Hunter x Hunter👌)\
 Currently working as fulltime full stack developer and using the stack as mentioned above.
 <br/>
+
 ## 💻Programming Experience:
 <div style="display:flex;flex-direction:row;align-items:center;justify-content:center;gap:1rem;flex-wrap:wrap;padding: 1rem 10rem">
 <img alt="javascript" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="40px" />
